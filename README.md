@@ -1,6 +1,9 @@
 # 05-Work-Day-Scheduler
 Work Day Scheduler
 
+Github Repo: https://github.com/jaxe93/05-Work-Day-Scheduler
+Deployed site: https://jaxe93.github.io/05-Work-Day-Scheduler/
+
 ## Your Task
 
 Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm) by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
@@ -33,5 +36,5 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-Made this website work using a mixture of Javascript, HTML, CSS, A mix of APIs, and the help, and guidence of friends. 
+Made this website work using a mixture of Javascript, HTML, CSS, A mix of APIs, and the help, and guidence of Tutors & friends. 
 
