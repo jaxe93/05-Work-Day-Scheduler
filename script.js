@@ -1,4 +1,4 @@
-
+// code to make everything work.  Also added in exact same colors found in CSS page, and deleted those because they were no longer of use
 
 $(document).ready(function () {
   $('textarea').each(function () {
@@ -24,6 +24,7 @@ $(document).ready(function () {
   });
 });
 
+// time keeping function.
 const d = new Date();
 document.getElementById("time1").innerHTML = d;
 
